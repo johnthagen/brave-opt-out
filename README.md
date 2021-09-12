@@ -8,7 +8,7 @@ Instructions on how to opt out of Brave Rewards items enabled by default in the 
   - Appearance
     - Enable **Hide Brave Rewards button**
   - New Tab Page
-    - New tab page shows: Blank Page
+    - New tab page shows: **Blank Page**
 - Brave Rewards `brave://rewards`
   - Ads: Off
   - Auto-Contribute: Off
