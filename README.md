@@ -4,12 +4,12 @@ Instructions on how to opt out of Brave Rewards items enabled by default in the 
 
 ## Desktop
 
-- [Settings](brave://settings)
+- Settings `brave://settings`
   - Appearance
     - Enable **Hide Brave Rewards button**
   - New Tab Page
     - New tab page shows: Blank Page
-- [Brave Rewards](brave://rewards/)
+- Brave Rewards `brave://rewards`
   - Ads: Off
   - Auto-Contribute: Off
   - Tips | Tip Settings: Disable all content-level tips
