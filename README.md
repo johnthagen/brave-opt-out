@@ -1,6 +1,7 @@
 # Opt Out of Default Brave Rewards Ads
 
 Instructions on how to opt out of Brave Rewards items enabled by default in the Brave browser.
+Additionally, opt out of some telemetry enabled by default as well.
 
 ## Desktop
 
@@ -9,6 +10,10 @@ Instructions on how to opt out of Brave Rewards items enabled by default in the 
     - Enable **Hide Brave Rewards button**
   - New Tab Page
     - New tab page shows: **Blank Page**
+  - Privacy and security
+    - Disable **Autocomplete searches and URLs**
+    - Disable **Allow privacy-preserving product analytics**
+    - Disable **Automatically send daily usage ping to Brave**
 - Brave Rewards `brave://rewards`
   - Ads: Off
   - Auto-Contribute: Off
