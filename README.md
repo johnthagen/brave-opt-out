@@ -19,6 +19,14 @@ Additionally, opt out of some telemetry enabled by default as well.
   - Auto-Contribute: Off
   - Tips | Tip Settings: Disable all content-level tips
 
+### Other Settings
+
+- Settings
+  - Search engine
+    - Search engine used in address bar: **Consider changing**
+  - Extensions
+    - Enable **Hangouts**; This fixes Google Meet screen sharing
+
 ## Mobile
 
 - Settings
