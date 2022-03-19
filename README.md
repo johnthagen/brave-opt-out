@@ -7,7 +7,7 @@ Additionally, opt out of some telemetry enabled by default as well.
 
 - Settings `brave://settings`
   - Appearance
-    - Enable **Hide Brave Rewards button**
+    - Disable **Show Brave Rewards icon in address bar**
   - New Tab Page
     - New tab page shows: **Blank Page**
   - Privacy and security
@@ -26,6 +26,9 @@ Additionally, opt out of some telemetry enabled by default as well.
     - Search engine used in address bar: **Consider changing**
   - Extensions
     - Enable **Hangouts**; This fixes Google Meet screen sharing
+  - Additional Settings | Autofill
+    - Passwords
+      - Disable **Offer to save passwords**
 
 ## Mobile
 
