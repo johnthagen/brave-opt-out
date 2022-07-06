@@ -29,6 +29,10 @@ Additionally, opt out of some telemetry enabled by default as well.
   - Additional Settings | Autofill
     - Passwords
       - Disable **Offer to save passwords**
+    - Payment Methods
+      - Disable **Save and fill payment methods**
+    - Addresses and more
+      - Disable **Save and fill addresses**
 
 ## Mobile
 
