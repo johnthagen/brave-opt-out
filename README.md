@@ -6,10 +6,10 @@ Additionally, opt out of some telemetry enabled by default as well.
 ## Desktop
 
 - Settings `brave://settings`
-  - Appearance
-    - Disable **Show Brave Rewards icon in address bar**
   - New Tab Page
     - New tab page shows: **Blank Page**
+  - Brave Rewards
+    - Disable **Show Brave Rewards icon in address bar**
   - Privacy and security
     - Disable **Autocomplete searches and URLs**
     - Disable **Allow privacy-preserving product analytics**
