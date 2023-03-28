@@ -6,6 +6,8 @@ Additionally, opt out of some telemetry enabled by default as well.
 ## Desktop
 
 - Settings `brave://settings`
+  - Appearance
+    - Disable **Show VPN button**
   - New Tab Page
     - New tab page shows: **Blank Page**
   - Brave Rewards
