@@ -16,7 +16,7 @@ Additionally, opt out of some telemetry enabled by default as well.
     - Disable **Autocomplete searches and URLs**
     - Disable **Allow privacy-preserving product analytics**
     - Disable **Automatically send daily usage ping to Brave**
-  - Search: `wallet`
+  - Wallet: `brave://settings/wallet`
     - Disable **Show Brave Wallet icon on toolbar**
 - Brave Rewards `brave://rewards`
   - Ads: Off
