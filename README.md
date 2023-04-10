@@ -41,6 +41,8 @@ Additionally, opt out of some telemetry enabled by default as well.
 ## Mobile
 
 - Settings
+  - Brave News
+    - Disable **Show Brave News**
   - Display
     - Appearance
       - Enable **Hide Brave Rewards Icon**
