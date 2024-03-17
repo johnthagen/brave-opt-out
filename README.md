@@ -8,6 +8,8 @@ Additionally, opt out of some telemetry enabled by default as well.
 - Settings `brave://settings`
   - Appearance
     - Disable **Show VPN button**
+    - Show autocomplete suggestions in address bar
+      - Disable **Leo AI Assistant**
   - New Tab Page
     - New tab page shows: **Blank Page**
   - Brave Rewards
@@ -22,6 +24,8 @@ Additionally, opt out of some telemetry enabled by default as well.
   - Ads: Off
   - Auto-Contribute: Off
   - Tips | Tip Settings: Disable all content-level tips
+- Leo `brave://settings/leo-assistant`
+  - Disable **Show Leo icon in sidebar**
 
 ### Other Settings
 
