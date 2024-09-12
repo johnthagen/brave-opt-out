@@ -7,6 +7,8 @@ Additionally, opt out of some telemetry enabled by default as well.
 
 - Settings `brave://settings`
   - Appearance
+    - Disable **Show Brave News button**
+    - Disable **SHow Leo AI button**
     - Disable **Show VPN button**
     - Show autocomplete suggestions in address bar
       - Disable **Leo AI Assistant**
