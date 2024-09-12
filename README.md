@@ -1,4 +1,4 @@
-# Opt Out of Default Brave Rewards Ads
+# Opt Out of Default Brave Rewards, Ads, and AI
 
 Instructions on how to opt out of Brave Rewards items enabled by default in the Brave browser.
 Additionally, opt out of some telemetry enabled by default as well.
